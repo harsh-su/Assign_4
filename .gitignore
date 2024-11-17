@@ -1,6 +1,6 @@
 VGG1Block.pth 
 VGG3Block.pth 
-VGG3Block1.pth 
+VGG3BlockWithAugumentation.pth
 VGG16_Finetuned_AllLayers.pth 
 VGG16_onlymlp.pth
 MLPComparableToVGG16.pth
